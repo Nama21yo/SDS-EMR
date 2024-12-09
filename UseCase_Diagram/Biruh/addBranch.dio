@@ -12,7 +12,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2" value="&lt;b&gt;Head Office Adminstrator&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;rounded=1;" parent="1" vertex="1">
+                <mxCell id="2" value="&lt;b&gt;Head Office&amp;nbsp;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="60" y="20" width="30" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;startArrow=none;" parent="1" source="81" edge="1">
